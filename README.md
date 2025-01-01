@@ -2,7 +2,7 @@
 2. Integration t:ests ✅
    1. Pit stop: Makefile for running scripts easier.✅
 3. Programatic verification✅
-4. Push to GitHub
+4. Push to GitHub✅
 
 # Foundry Fund Me
 
